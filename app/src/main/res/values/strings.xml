@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play">Play</string>
+    <string name="next_song">Next Song</string>
+    <string name="app_name">MUSE-ic Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="status">Favorite Song:</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">Refresh</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="init_val">0.0</string>
+    <string name="eeg">Alpha Data:</string>
+    <string name="accel">Accelerometer Data:</string>
+    <string name="song">Song:</string>
+    <string name="undefined">unknown</string>
+    <string name="artifacts">Blinks, Jaw: </string>
+    <string name="msg_count">Msg number, size: </string>
+    <string name="pause">Pause/Resume</string>
+    <string name="drop">Drop</string>
+    <string name="muse_elem">Beta Data:</string>
+
+</resources>

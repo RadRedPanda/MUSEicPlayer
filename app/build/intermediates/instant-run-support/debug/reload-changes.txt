@@ -1,0 +1,6 @@
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\interaxon\test\libmuse\MainActivity$override.class
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\interaxon\test\libmuse\MainActivity$DataListener$2$override.class
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\interaxon\test\libmuse\MainActivity$2$override.class
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\interaxon\test\libmuse\MainActivity$DataListener$3$override.class
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Kevin\StudioProjects\TestLibMuseAndroid\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\interaxon\test\libmuse\MainActivity$DataListener$override.class
